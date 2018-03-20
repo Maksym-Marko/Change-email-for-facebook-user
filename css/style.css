@@ -1,0 +1,9 @@
+#settings-form{
+	display: none;
+}
+.mx-error_i{
+	background: #faa;
+	color: #a00;
+	margin: 0 0 10px;
+	padding: 6px;
+}
